@@ -1,0 +1,192 @@
+2024-10-01/16:32:34		Column length validation Started
+2024-10-01/16:32:34		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:32:34		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:32:35		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:32:35		Column Length Validation Completed
+2024-10-01/16:40:19		Column length validation Started
+2024-10-01/16:40:20		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:40:20		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:40:20		Column Length Validation Completed
+2024-10-01/16:40:24		Column length validation Started
+2024-10-01/16:40:24		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:40:24		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:40:24		Column Length Validation Completed
+2024-10-01/16:40:39		Column length validation Started
+2024-10-01/16:40:39		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:40:39		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:40:39		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:40:39		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:40:39		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:40:39		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:40:40		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:40:40		Column Length Validation Completed
+2024-10-01/16:48:05		Column length validation Started
+2024-10-01/16:48:05		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:48:05		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:48:06		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:48:06		Column Length Validation Completed
+2024-10-01/16:48:12		Column length validation Started
+2024-10-01/16:48:12		Invalid Column Length ofwafer_07012020_041011.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_13012020_090817.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_16012020_051629.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_20012020_090819.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_20022020_090716.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_21012020_080913.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_22022020_041119.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_23012020_011008.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_23012020_041211.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_27012020_080911.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_28012020_051011.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_28012020_090817.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_28042020_031911.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_29012020_050617.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_29012020_060756.csv , moved to bad folder
+2024-10-01/16:48:12		Invalid Column Length ofwafer_31012020_090811.csv , moved to bad folder
+2024-10-01/16:48:12		Column Length Validation Completed
+2024-10-01/16:54:11		Column length validation Started
+2024-10-01/16:54:11		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:54:11		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:54:12		Column Length Validation Completed
+2024-10-01/16:59:55		Column length validation Started
+2024-10-01/16:59:55		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/16:59:55		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/16:59:55		Column Length Validation Completed
+2024-10-01/17:08:17		Column length validation Started
+2024-10-01/17:08:17		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:08:17		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:08:17		Column Length Validation Completed
+2024-10-01/17:08:35		Column length validation Started
+2024-10-01/17:08:35		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:08:35		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:08:35		Column Length Validation Completed
+2024-10-01/17:17:36		Column length validation Started
+2024-10-01/17:17:36		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:17:36		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:17:37		Column Length Validation Completed
+2024-10-01/17:30:18		Column length validation Started
+2024-10-01/17:30:18		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:30:18		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:30:18		Column Length Validation Completed
+2024-10-01/17:30:31		Column length validation Started
+2024-10-01/17:30:31		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:30:31		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:30:32		Column Length Validation Completed
+2024-10-01/17:39:26		Column length validation Started
+2024-10-01/17:39:26		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:39:26		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:39:27		Column Length Validation Completed
+2024-10-01/17:42:15		Column length validation Started
+2024-10-01/17:42:15		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-01/17:42:15		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-01/17:42:16		Column Length Validation Completed
+2024-10-03/14:14:08		Column length validation Started
+2024-10-03/14:14:08		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:14:08		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:14:08		Column Length Validation Completed
+2024-10-03/14:26:19		Column length validation Started
+2024-10-03/14:26:19		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:26:19		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:26:20		Column Length Validation Completed
+2024-10-03/14:33:30		Column length validation Started
+2024-10-03/14:33:30		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:33:30		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:33:31		Column Length Validation Completed
+2024-10-03/14:37:56		Column length validation Started
+2024-10-03/14:37:56		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:37:56		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:37:57		Column Length Validation Completed
+2024-10-03/14:43:45		Column length validation Started
+2024-10-03/14:43:45		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:43:45		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:43:46		Column Length Validation Completed
+2024-10-03/14:58:03		Column length validation Started
+2024-10-03/14:58:03		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/14:58:03		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/14:58:03		Column Length Validation Completed
+2024-10-03/15:04:23		Column length validation Started
+2024-10-03/15:04:23		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/15:04:23		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/15:04:23		Column Length Validation Completed
+2024-10-03/15:09:51		Column length validation Started
+2024-10-03/15:09:51		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-10-03/15:09:51		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-10-03/15:09:52		Column Length Validation Completed
+2024-12-10/16:11:39		Column length validation Started
+2024-12-10/16:11:40		Invalid Column Length ofwafer_16012020_134553.csv , moved to bad folder
+2024-12-10/16:11:40		Invalid Column Length ofwafer_17012020_125434.csv , moved to bad folder
+2024-12-10/16:11:40		Column Length Validation Completed

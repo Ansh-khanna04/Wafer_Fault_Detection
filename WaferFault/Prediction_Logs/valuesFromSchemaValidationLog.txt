@@ -1,0 +1,6 @@
+2024-12-10/16:45:40		KeyError:Key value error incorrect key passed
+2024-12-10/16:51:16		KeyError:Key value error incorrect key passed
+2024-12-10/16:51:20		KeyError:Key value error incorrect key passed
+2024-12-10/17:01:36		KeyError:Key 'LengthOfTimeSampleInFile' not found in schema
+2024-12-10/17:03:57		LengthOfDateStampInFile8  and LengthOfTimeStampInFile6 and NumberOfColumns591
+2024-12-10/17:08:01		LengthOfDateStampInFile8  and LengthOfTimeStampInFile6 and NumberOfColumns591

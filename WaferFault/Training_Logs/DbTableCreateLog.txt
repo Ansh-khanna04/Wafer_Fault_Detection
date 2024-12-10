@@ -1,0 +1,29 @@
+2024-10-01/16:32:35		Error Occurred while creating table 
+ unable to open database file
+2024-10-01/16:40:20		Error Occurred while creating table 
+ unable to open database file
+2024-10-01/16:40:24		Error Occurred while creating table 
+ unable to open database file
+2024-10-01/16:40:40		Error Occurred while creating table 
+ unable to open database file
+2024-10-01/16:48:06		Error Occurred while creating table 
+ 'int' object has no attribute 'keys'
+2024-10-01/16:48:12		Error Occurred while creating table 
+ 'int' object has no attribute 'keys'
+2024-10-01/16:59:57		Tables created successfully!!
+2024-10-01/17:08:18		Tables created successfully!!
+2024-10-01/17:08:37		Tables created successfully!!
+2024-10-01/17:17:39		Tables created successfully!!
+2024-10-01/17:30:20		Tables created successfully!!
+2024-10-01/17:30:34		Tables created successfully!!
+2024-10-01/17:39:28		Tables created successfully!!
+2024-10-01/17:42:18		Tables created successfully!!
+2024-10-03/14:14:10		Tables created successfully!!
+2024-10-03/14:26:21		Tables created successfully!!
+2024-10-03/14:33:32		Tables created successfully!!
+2024-10-03/14:37:58		Tables created successfully!!
+2024-10-03/14:43:47		Tables created successfully!!
+2024-10-03/14:58:04		Tables created successfully!!
+2024-10-03/15:04:24		Tables created successfully!!
+2024-10-03/15:09:53		Tables created successfully!!
+2024-12-10/16:11:41		Tables created successfully!!

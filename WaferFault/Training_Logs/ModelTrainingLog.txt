@@ -1,0 +1,287 @@
+2024-10-01/17:30:24		Training process started
+2024-10-01/17:30:24		ENtered the get data method of data getter class
+2024-10-01/17:30:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-01/17:30:24		Entered the remove_column method of the preprocessor class
+2024-10-01/17:30:24		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-01/17:30:24		ENtered into separate label feature
+2024-10-01/17:30:24		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-01/17:30:24		Entered the is_null_present method of the Preprocessor class
+2024-10-01/17:30:24		Exception occured in is_null_present method of the Preprocessor class. Exception message:  'Index' object is not callable
+2024-10-01/17:30:24		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2024-10-01/17:30:24		Unsuccessful End of Training
+2024-10-01/17:30:38		Training process started
+2024-10-01/17:30:38		ENtered the get data method of data getter class
+2024-10-01/17:30:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-01/17:30:38		Entered the remove_column method of the preprocessor class
+2024-10-01/17:30:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-01/17:30:38		ENtered into separate label feature
+2024-10-01/17:30:38		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-01/17:30:38		Entered the is_null_present method of the Preprocessor class
+2024-10-01/17:30:38		Exception occured in is_null_present method of the Preprocessor class. Exception message:  'Index' object is not callable
+2024-10-01/17:30:38		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2024-10-01/17:30:38		Unsuccessful End of Training
+2024-10-01/17:39:31		Training process started
+2024-10-01/17:39:31		ENtered the get data method of data getter class
+2024-10-01/17:39:32		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-01/17:39:32		Entered the remove_column method of the preprocessor class
+2024-10-01/17:39:32		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-01/17:39:32		ENtered into separate label feature
+2024-10-01/17:39:32		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-01/17:39:32		Entered the is_null_present method of the Preprocessor class
+2024-10-01/17:39:32		Exception occured in is_null_present method of the Preprocessor class. Exception message:  Cannot save file into a non-existent directory: 'preprocessing_data'
+2024-10-01/17:39:32		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2024-10-01/17:39:32		Unsuccessful End of Training
+2024-10-01/17:42:23		Training process started
+2024-10-01/17:42:23		ENtered the get data method of data getter class
+2024-10-01/17:42:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-01/17:42:23		Entered the remove_column method of the preprocessor class
+2024-10-01/17:42:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-01/17:42:23		ENtered into separate label feature
+2024-10-01/17:42:23		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-01/17:42:23		Entered the is_null_present method of the Preprocessor class
+2024-10-01/17:42:23		Finding missing values is a success
+2024-10-01/17:42:23		Entered the impute_missing_values method of the Preprocessor class
+2024-10-01/17:42:23		Exception occurred in impute_missing_values,Error message is could not convert string to float: 'Wafer-1201'
+2024-10-01/17:42:23		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2024-10-01/17:42:23		Unsuccessful End of Training
+2024-10-03/14:14:13		Training process started
+2024-10-03/14:14:13		ENtered the get data method of data getter class
+2024-10-03/14:14:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:14:14		Entered the remove_column method of the preprocessor class
+2024-10-03/14:14:14		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:14:14		ENtered into separate label feature
+2024-10-03/14:14:14		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:14:14		Entered the is_null_present method of the Preprocessor class
+2024-10-03/14:14:14		Finding missing values is a success
+2024-10-03/14:14:14		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/14:14:14		Exception occurred in impute_missing_values,Error message is could not convert string to float: 'Wafer-1201'
+2024-10-03/14:14:14		Imputing missing values failed. Exited the impute_missing_values method of the Preprocessor class
+2024-10-03/14:14:14		Unsuccessful End of Training
+2024-10-03/14:26:24		Training process started
+2024-10-03/14:26:24		ENtered the get data method of data getter class
+2024-10-03/14:26:25		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:26:25		Entered the remove_column method of the preprocessor class
+2024-10-03/14:26:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:26:25		ENtered into separate label feature
+2024-10-03/14:26:25		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:26:25		Unsuccessful End of Training
+2024-10-03/14:33:36		Training process started
+2024-10-03/14:33:36		ENtered the get data method of data getter class
+2024-10-03/14:33:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:33:36		Entered the remove_column method of the preprocessor class
+2024-10-03/14:33:36		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:33:36		ENtered into separate label feature
+2024-10-03/14:33:36		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:33:36		Entered the is_null_present method of the Preprocessor class
+2024-10-03/14:33:36		Finding missing values is a success
+2024-10-03/14:33:36		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/14:34:08		Imputed missing values successfully
+2024-10-03/14:34:08		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/14:34:09		Exception occured in get_columns_with_zero_std_deviation method of the Preprocessor class. Exception message:  ('std', 'Sensor - 1')
+2024-10-03/14:34:09		Column search for Standard Deviation of Zero Failed. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/14:34:09		Unsuccessful End of Training
+2024-10-03/14:38:02		Training process started
+2024-10-03/14:38:02		ENtered the get data method of data getter class
+2024-10-03/14:38:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:38:02		Entered the remove_column method of the preprocessor class
+2024-10-03/14:38:02		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:38:02		ENtered into separate label feature
+2024-10-03/14:38:02		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:38:02		Entered the is_null_present method of the Preprocessor class
+2024-10-03/14:38:02		Finding missing values is a success
+2024-10-03/14:38:02		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/14:38:38		Imputed missing values successfully
+2024-10-03/14:38:38		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/14:38:38		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-10-03/14:38:38		Entered the remove_column method of the preprocessor class
+2024-10-03/14:38:38		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:38:38		Entered the elbow plot method of KmeansClustering Class
+2024-10-03/14:38:46		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:'App_Logger' object is not callable
+2024-10-03/14:38:46		Finding the number of clusters failed.
+2024-10-03/14:38:46		Unsuccessful End of Training
+2024-10-03/14:43:52		Training process started
+2024-10-03/14:43:52		ENtered the get data method of data getter class
+2024-10-03/14:43:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:43:52		Entered the remove_column method of the preprocessor class
+2024-10-03/14:43:52		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:43:52		ENtered into separate label feature
+2024-10-03/14:43:52		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:43:52		Entered the is_null_present method of the Preprocessor class
+2024-10-03/14:43:52		Finding missing values is a success
+2024-10-03/14:43:52		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/14:44:40		Imputed missing values successfully
+2024-10-03/14:44:40		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/14:44:40		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-10-03/14:44:40		Entered the remove_column method of the preprocessor class
+2024-10-03/14:44:40		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:44:40		Entered the elbow plot method of KmeansClustering Class
+2024-10-03/14:44:48		The optimum number of clusters is:3
+2024-10-03/14:44:48		Entered the create_clusters method of the KMeansClustering class
+2024-10-03/14:44:49		Entered the save model method
+2024-10-03/14:44:49		Model FileKMeanssaved
+2024-10-03/14:44:49		successfully created 3 clusters
+2024-10-03/14:44:49		Unsuccessful End of Training
+2024-10-03/14:58:09		Training process started
+2024-10-03/14:58:09		ENtered the get data method of data getter class
+2024-10-03/14:58:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/14:58:09		Entered the remove_column method of the preprocessor class
+2024-10-03/14:58:09		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:58:09		ENtered into separate label feature
+2024-10-03/14:58:09		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/14:58:09		Entered the is_null_present method of the Preprocessor class
+2024-10-03/14:58:09		Finding missing values is a success
+2024-10-03/14:58:09		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/14:59:16		Imputed missing values successfully
+2024-10-03/14:59:16		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/14:59:16		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-10-03/14:59:16		Entered the remove_column method of the preprocessor class
+2024-10-03/14:59:16		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/14:59:16		Entered the elbow plot method of KmeansClustering Class
+2024-10-03/14:59:23		The optimum number of clusters is:3
+2024-10-03/14:59:23		Entered the create_clusters method of the KMeansClustering class
+2024-10-03/14:59:24		Entered the save model method
+2024-10-03/14:59:24		Model FileKMeanssaved
+2024-10-03/14:59:24		successfully created 3 clusters
+2024-10-03/14:59:24		Unsuccessful End of Training
+2024-10-03/15:04:30		Training process started
+2024-10-03/15:04:30		ENtered the get data method of data getter class
+2024-10-03/15:04:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/15:04:30		Entered the remove_column method of the preprocessor class
+2024-10-03/15:04:30		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/15:04:30		ENtered into separate label feature
+2024-10-03/15:04:30		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/15:04:30		Entered the is_null_present method of the Preprocessor class
+2024-10-03/15:04:30		Finding missing values is a success
+2024-10-03/15:04:30		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/15:05:36		Imputed missing values successfully
+2024-10-03/15:05:36		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/15:05:36		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-10-03/15:05:36		Entered the remove_column method of the preprocessor class
+2024-10-03/15:05:36		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/15:05:36		Entered the elbow plot method of KmeansClustering Class
+2024-10-03/15:05:45		The optimum number of clusters is:3
+2024-10-03/15:05:45		Entered the create_clusters method of the KMeansClustering class
+2024-10-03/15:05:45		Entered the save model method
+2024-10-03/15:05:45		Model FileKMeanssaved
+2024-10-03/15:05:45		successfully created 3 clusters
+2024-10-03/15:05:45		Entered the get_best_model method of the Model_Finder class
+2024-10-03/15:05:45		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-10-03/15:05:48		Exception occured in get_best_params_for_xgboost method of the Model_Finder class. Exception message:  
+All the 320 fits failed.
+It is very likely that your model is misconfigured.
+You can try to debug the error by setting error_score='raise'.
+
+Below are more details about the failures:
+--------------------------------------------------------------------------------
+320 fits failed with the following error:
+Traceback (most recent call last):
+  File "D:\WAFER_FAULT\WaferFault\.venv\lib\site-packages\sklearn\model_selection\_validation.py", line 686, in _fit_and_score
+    estimator.fit(X_train, y_train, **fit_params)
+  File "D:\WAFER_FAULT\WaferFault\.venv\lib\site-packages\xgboost\core.py", line 620, in inner_f
+    return func(**kwargs)
+  File "D:\WAFER_FAULT\WaferFault\.venv\lib\site-packages\xgboost\sklearn.py", line 1440, in fit
+    raise ValueError(
+ValueError: Invalid classes inferred from unique values of `y`.  Expected: [0 1], got [-1  1]
+
+2024-10-03/15:05:48		XGBoost Parameter tuning  failed. Exited the get_best_params_for_xgboost method of the Model_Finder class
+2024-10-03/15:05:48		Exception occurred in get_best_model method of the Model_Finder class. Exception message:  
+2024-10-03/15:05:48		Model Selection Failed. Exited the get_best_model method of the Model_Finder class
+2024-10-03/15:05:48		Unsuccessful End of Training
+2024-10-03/15:09:58		Training process started
+2024-10-03/15:09:58		ENtered the get data method of data getter class
+2024-10-03/15:09:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-10-03/15:09:59		Entered the remove_column method of the preprocessor class
+2024-10-03/15:09:59		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/15:09:59		ENtered into separate label feature
+2024-10-03/15:09:59		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-10-03/15:09:59		Entered the is_null_present method of the Preprocessor class
+2024-10-03/15:09:59		Finding missing values is a success
+2024-10-03/15:09:59		Entered the impute_missing_values method of the Preprocessor class
+2024-10-03/15:11:23		Imputed missing values successfully
+2024-10-03/15:11:23		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-10-03/15:11:23		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-10-03/15:11:23		Entered the remove_column method of the preprocessor class
+2024-10-03/15:11:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-10-03/15:11:23		Entered the elbow plot method of KmeansClustering Class
+2024-10-03/15:11:32		The optimum number of clusters is:3
+2024-10-03/15:11:32		Entered the create_clusters method of the KMeansClustering class
+2024-10-03/15:11:33		Entered the save model method
+2024-10-03/15:11:33		Model FileKMeanssaved
+2024-10-03/15:11:33		successfully created 3 clusters
+2024-10-03/15:11:33		Entered the get_best_model method of the Model_Finder class
+2024-10-03/15:11:33		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-10-03/15:18:12		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}
+2024-10-03/15:18:12		AUC for XGBoost:1.0
+2024-10-03/15:18:12		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-10-03/15:19:21		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}found
+2024-10-03/15:19:21		AUC for RF:0.5952380952380952
+2024-10-03/15:19:21		Entered the save model method
+2024-10-03/15:19:21		Model FileXgBoost0saved
+2024-10-03/15:19:21		Entered the get_best_model method of the Model_Finder class
+2024-10-03/15:19:21		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-10-03/15:21:13		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2024-10-03/15:21:13		AUC for XGBoost:1.0
+2024-10-03/15:21:13		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-10-03/15:21:36		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}found
+2024-10-03/15:21:36		AUC for RF:1.0
+2024-10-03/15:21:36		Entered the save model method
+2024-10-03/15:21:36		Model FileXgBoost2saved
+2024-10-03/15:21:36		Entered the get_best_model method of the Model_Finder class
+2024-10-03/15:21:36		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-10-03/15:24:22		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2024-10-03/15:24:22		AUC for XGBoost:1.0
+2024-10-03/15:24:22		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-10-03/15:24:55		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}found
+2024-10-03/15:24:56		AUC for RF:0.8200000000000001
+2024-10-03/15:24:56		Entered the save model method
+2024-10-03/15:24:56		Model FileXgBoost1saved
+2024-10-03/15:24:56		Successful End of Training
+2024-12-10/16:11:48		Training process started
+2024-12-10/16:11:48		ENtered the get data method of data getter class
+2024-12-10/16:11:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2024-12-10/16:11:48		Entered the remove_column method of the preprocessor class
+2024-12-10/16:11:48		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-12-10/16:11:48		ENtered into separate label feature
+2024-12-10/16:11:48		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2024-12-10/16:11:48		Entered the is_null_present method of the Preprocessor class
+2024-12-10/16:11:48		Finding missing values is a success
+2024-12-10/16:11:48		Entered the impute_missing_values method of the Preprocessor class
+2024-12-10/16:13:23		Imputed missing values successfully
+2024-12-10/16:13:23		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-12-10/16:13:23		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-12-10/16:13:23		Entered the remove_column method of the preprocessor class
+2024-12-10/16:13:23		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-12-10/16:13:23		Entered the elbow plot method of KmeansClustering Class
+2024-12-10/16:13:32		The optimum number of clusters is:3
+2024-12-10/16:13:32		Entered the create_clusters method of the KMeansClustering class
+2024-12-10/16:13:32		Entered the save model method
+2024-12-10/16:13:32		Model FileKMeanssaved
+2024-12-10/16:13:32		successfully created 3 clusters
+2024-12-10/16:13:32		Entered the get_best_model method of the Model_Finder class
+2024-12-10/16:13:32		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-12-10/16:20:16		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 50}
+2024-12-10/16:20:16		AUC for XGBoost:1.0
+2024-12-10/16:20:16		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-12-10/16:21:25		Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}found
+2024-12-10/16:21:25		AUC for RF:0.5175438596491229
+2024-12-10/16:21:25		Entered the save model method
+2024-12-10/16:21:25		Model FileXgBoost0saved
+2024-12-10/16:21:25		Entered the get_best_model method of the Model_Finder class
+2024-12-10/16:21:25		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-12-10/16:23:14		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2024-12-10/16:23:14		AUC for XGBoost:1.0
+2024-12-10/16:23:14		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-12-10/16:23:37		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 100}found
+2024-12-10/16:23:37		AUC for RF:1.0
+2024-12-10/16:23:37		Entered the save model method
+2024-12-10/16:23:37		Model FileXgBoost2saved
+2024-12-10/16:23:37		Entered the get_best_model method of the Model_Finder class
+2024-12-10/16:23:37		Entered the get_best_params_for_xgboost method of the Model_Finder class
+2024-12-10/16:26:00		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2024-12-10/16:26:00		AUC for XGBoost:1.0
+2024-12-10/16:26:00		Entered the get_best_params_for_random_forest method of the Model_Finder class
+2024-12-10/16:26:34		Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 130}found
+2024-12-10/16:26:34		AUC for RF:0.9181818181818182
+2024-12-10/16:26:34		Entered the save model method
+2024-12-10/16:26:34		Model FileXgBoost1saved
+2024-12-10/16:26:34		Successful End of Training

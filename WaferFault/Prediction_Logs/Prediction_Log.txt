@@ -1,0 +1,89 @@
+2024-10-03/16:27:13		Start of validation on files for prediction
+2024-10-03/16:28:53		Start of validation on files for prediction
+2024-10-03/16:45:43		Start of validation on files for prediction
+2024-12-10/16:30:08		Start of validation on files for prediction
+2024-12-10/16:45:40		Start of validation on files for prediction
+2024-12-10/16:51:16		Start of validation on files for prediction
+2024-12-10/16:51:20		Start of validation on files for prediction
+2024-12-10/16:58:14		Start of validation on files for prediction
+2024-12-10/17:01:36		Start of validation on files for prediction
+2024-12-10/17:03:57		Start of validation on files for prediction
+2024-12-10/17:03:59		RawData Validation Completed
+2024-12-10/17:03:59		Starting Data Transforamtion!!
+2024-12-10/17:04:00		DataTransformation Completed!!!
+2024-12-10/17:04:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2024-12-10/17:04:01		Table creation Completed!!
+2024-12-10/17:04:01		Insertion of Data into Table started!!!!
+2024-12-10/17:04:03		Insertion in Table completed!!!
+2024-12-10/17:04:03		Deleting Good Data Folder!!!
+2024-12-10/17:04:03		Good_Data folder deleted!!!
+2024-12-10/17:04:03		Moving bad files to Archive and deleting Bad_Data folder!!!
+2024-12-10/17:04:03		Bad files moved to archive!! Bad folder Deleted!!
+2024-12-10/17:04:03		Validation Operation completed!!
+2024-12-10/17:04:03		Extracting csv file from table
+2024-12-10/17:04:03		Start of Prediction
+2024-12-10/17:04:03		Entered the get_data method
+2024-12-10/17:04:03		Data Load Successful
+2024-12-10/17:04:03		Entered the is_null_present method of the Preprocessor class
+2024-12-10/17:04:03		Finding missing values is a success
+2024-12-10/17:04:03		Entered the impute_missing_values method of the Preprocessor class
+2024-12-10/17:04:04		Imputed missing values successfully
+2024-12-10/17:04:04		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-12-10/17:04:04		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-12-10/17:04:04		Entered the remove_column method of the preprocessor class
+2024-12-10/17:04:04		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-12-10/17:04:04		Entered the load_model method of the File_Operation class
+2024-12-10/17:04:04		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:04:04		Entered the find_correct_model method
+2024-12-10/17:04:04		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:04:04		Entered the load_model method of the File_Operation class
+2024-12-10/17:04:04		Model File XgBoost0loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:04:04		Entered the find_correct_model method
+2024-12-10/17:04:04		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:04:04		Entered the load_model method of the File_Operation class
+2024-12-10/17:04:04		Model File XgBoost2loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:04:04		Entered the find_correct_model method
+2024-12-10/17:04:04		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:04:04		Entered the load_model method of the File_Operation class
+2024-12-10/17:04:04		Model File XgBoost1loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:04:04		End of Prediction
+2024-12-10/17:08:01		Start of validation on files for prediction
+2024-12-10/17:08:03		RawData Validation Completed
+2024-12-10/17:08:03		Starting Data Transforamtion!!
+2024-12-10/17:08:04		DataTransformation Completed!!!
+2024-12-10/17:08:04		Creating Prediction_Database and tables on the basis of given schema!!!
+2024-12-10/17:08:05		Table creation Completed!!
+2024-12-10/17:08:05		Insertion of Data into Table started!!!!
+2024-12-10/17:08:07		Insertion in Table completed!!!
+2024-12-10/17:08:07		Deleting Good Data Folder!!!
+2024-12-10/17:08:07		Good_Data folder deleted!!!
+2024-12-10/17:08:07		Moving bad files to Archive and deleting Bad_Data folder!!!
+2024-12-10/17:08:07		Bad files moved to archive!! Bad folder Deleted!!
+2024-12-10/17:08:07		Validation Operation completed!!
+2024-12-10/17:08:07		Extracting csv file from table
+2024-12-10/17:08:07		Start of Prediction
+2024-12-10/17:08:07		Entered the get_data method
+2024-12-10/17:08:07		Data Load Successful
+2024-12-10/17:08:07		Entered the is_null_present method of the Preprocessor class
+2024-12-10/17:08:07		Finding missing values is a success
+2024-12-10/17:08:07		Entered the impute_missing_values method of the Preprocessor class
+2024-12-10/17:08:08		Imputed missing values successfully
+2024-12-10/17:08:08		Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+2024-12-10/17:08:08		Columns with zero standard deviation: ['Sensor - 6', 'Sensor - 14', 'Sensor - 43', 'Sensor - 50', 'Sensor - 53', 'Sensor - 70', 'Sensor - 98', 'Sensor - 142', 'Sensor - 150', 'Sensor - 179', 'Sensor - 180', 'Sensor - 187', 'Sensor - 190', 'Sensor - 191', 'Sensor - 192', 'Sensor - 193', 'Sensor - 194', 'Sensor - 195', 'Sensor - 227', 'Sensor - 230', 'Sensor - 231', 'Sensor - 232', 'Sensor - 233', 'Sensor - 234', 'Sensor - 235', 'Sensor - 236', 'Sensor - 237', 'Sensor - 238', 'Sensor - 241', 'Sensor - 242', 'Sensor - 243', 'Sensor - 244', 'Sensor - 257', 'Sensor - 258', 'Sensor - 259', 'Sensor - 260', 'Sensor - 261', 'Sensor - 262', 'Sensor - 263', 'Sensor - 264', 'Sensor - 265', 'Sensor - 266', 'Sensor - 267', 'Sensor - 277', 'Sensor - 285', 'Sensor - 314', 'Sensor - 315', 'Sensor - 316', 'Sensor - 323', 'Sensor - 326', 'Sensor - 327', 'Sensor - 328', 'Sensor - 329', 'Sensor - 330', 'Sensor - 331', 'Sensor - 365', 'Sensor - 370', 'Sensor - 371', 'Sensor - 372', 'Sensor - 373', 'Sensor - 374', 'Sensor - 375', 'Sensor - 376', 'Sensor - 379', 'Sensor - 380', 'Sensor - 381', 'Sensor - 382', 'Sensor - 395', 'Sensor - 396', 'Sensor - 397', 'Sensor - 398', 'Sensor - 399', 'Sensor - 400', 'Sensor - 401', 'Sensor - 402', 'Sensor - 403', 'Sensor - 404', 'Sensor - 405', 'Sensor - 415', 'Sensor - 423', 'Sensor - 450', 'Sensor - 451', 'Sensor - 452', 'Sensor - 459', 'Sensor - 462', 'Sensor - 463', 'Sensor - 464', 'Sensor - 465', 'Sensor - 466', 'Sensor - 467', 'Sensor - 482', 'Sensor - 499', 'Sensor - 502', 'Sensor - 503', 'Sensor - 504', 'Sensor - 505', 'Sensor - 506', 'Sensor - 507', 'Sensor - 508', 'Sensor - 509', 'Sensor - 510', 'Sensor - 513', 'Sensor - 514', 'Sensor - 515', 'Sensor - 516', 'Sensor - 529', 'Sensor - 530', 'Sensor - 531', 'Sensor - 532', 'Sensor - 533', 'Sensor - 534', 'Sensor - 535', 'Sensor - 536', 'Sensor - 537', 'Sensor - 538', 'Sensor - 539']
+2024-12-10/17:08:08		Entered the remove_column method of the preprocessor class
+2024-12-10/17:08:08		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2024-12-10/17:08:08		Entered the load_model method of the File_Operation class
+2024-12-10/17:08:08		Model File KMeansloaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:08:08		Entered the find_correct_model method
+2024-12-10/17:08:08		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:08:08		Entered the load_model method of the File_Operation class
+2024-12-10/17:08:08		Model File XgBoost0loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:08:08		Entered the find_correct_model method
+2024-12-10/17:08:08		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:08:08		Entered the load_model method of the File_Operation class
+2024-12-10/17:08:08		Model File XgBoost2loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:08:08		Entered the find_correct_model method
+2024-12-10/17:08:08		Exited the find_correct_model_file method of the Model_Finder class.
+2024-12-10/17:08:08		Entered the load_model method of the File_Operation class
+2024-12-10/17:08:08		Model File XgBoost1loaded. Exited the load_model method of the Model_Finder class
+2024-12-10/17:08:08		End of Prediction
